@@ -36,7 +36,7 @@ python-owasp-zap-v2.4==0.0.14
 
 # Qualys
 dotted==0.1.8
-lxml==4.2.5
+lxml==4.6.3
 
 # Nikto
 defusedxml==0.6.0
