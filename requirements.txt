@@ -17,7 +17,7 @@ ruamel.yaml==0.15.92
 
 # Templating and formatting
 Jinja2==2.10.1
-markdown2==2.3.6
+markdown2==2.4.0
 inscriptis==0.0.4.0
 
 # Modules
