@@ -3,7 +3,7 @@
 #
 
 # General
-setuptools==41.0.0
+setuptools==65.5.1
 
 # Depots
 hvac==0.9.5
